@@ -50,3 +50,4 @@ color: #86898f;
 ![mff](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
 # Мое кредо
 > Никто не ценит того, чего слишком много Колин Маккалоу
+> Не стесняйтесь быть людьми
